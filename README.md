@@ -17,6 +17,7 @@ The **"Quick, Draw!"** dataset contains *millions of user-submitted drawings acr
 * A unique ID (**key_id**)
 * The prompt the user was given (**word**) 
 * Whether their drawing was recognized by the system (**recognized**)
+* A timestamp of when the drawing was made (**timestamp**) 
 * The country of the user who drew the doodle (**countrycode**)
 * The actual vector they drew (**drawing**).
 
