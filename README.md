@@ -36,4 +36,5 @@ I will be using these two files for my analysis.
 - Abhineeth: 3rd year CS major very interested in practical applications of Data Science
 
 ## References
+[Anime Recommendations Dataset on Kaggle](https://www.kaggle.com/CooperUnion/anime-recommendations-database/)
 [MyAnimeList](https://myanimelist.net/)
