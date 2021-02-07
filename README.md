@@ -1,7 +1,7 @@
 # Anime-trics: Japanese Anime Dataset Analysis and Dashboard
 
 ## Where to start
-To view the dashboard, see the file named [`Group 100 - Animetrics.twbx`](Group 100 - Animetrics.twbx). For the Jupyter Notebooks showing the analysis featuring a step-by-step explanation of how the analysis was carried out, look for files called [`milestone1.ipynb`](analysis/milestone1.ipynb) and [`milestone2.ipynb`](analysis/milestone2.ipynb), both of which are located in the [`analysis`](analysis) folder. Have fun! :)
+To view the dashboard, see the file named `Group 100 - Animetrics.twbx`. For the Jupyter Notebooks showing the analysis featuring a step-by-step explanation of how the analysis was carried out, look for files called [`milestone1.ipynb`](analysis/milestone1.ipynb) and [`milestone2.ipynb`](analysis/milestone2.ipynb), both of which are located in the [`analysis`](analysis) folder. Have fun! :)
 
 ## Presentation Video 
 Here's a link to the dashboard presentation video : [Animetrics Dashboard Presentation](https://youtu.be/Ljc1vUc2ZsM)
